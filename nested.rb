@@ -125,7 +125,6 @@ def adding_to_dennis
           :languages => ["C"]
         }
      }
-  alans_new_info = "GUI"
-  programmer_hash[:alan_kay][:languages] << alans_new_info
+  programmer_hash[:alan_kay][:languages] << "Assembly"
   programmer_hash
 end
